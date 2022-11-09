@@ -1,1 +1,130 @@
-www.heylinnss.com
+<div class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="ExRaRJP" data-user="heylinnsss"  data-prefill='{"title":"PRACTICE TEST","tags":[],"scripts":[],"stylesheets":[]}'>
+  <pre data-lang="html">&lt;!DOCTYPE html>
+&lt;html lang="en">
+&lt;h1>GETTING TO KNOW LINNA SIM &lt;/h1>
+&lt;h2>PORTFOLIO&lt;/h2>
+&lt;input placeholder="LINNAAA_LS"> &lt;input placeholder="Password" type="Password">
+&lt;br>
+&lt;input TYPE="CHECKBOX"> &lt;em>I CERTIFY I AM LINNA SIM&lt;/em>
+&lt;br>
+&lt;button> &lt;a HREF="https://www.instagram.com/accounts/login/">TAKE ME TO INSTAGRAM&lt;/a> &lt;/button>
+&lt;hr />
+&lt;h2>FUN FACTS&lt;/h2>I AM 29 YEARS OLD
+&lt;br>I HAVE 8 SIBLINGS AND I AM NUMBER 7 IN THE FAMILY
+&lt;br>MY FAVORITE COLOR IS TEAL, EMERALD, AND THE ENTIRE PASTEL COLOR PALATTE
+&lt;br>I ASPIRE TO BE THE BEST VERSION OF MYSELF, NOT ONLY IN THIS LIFETIME, BUT TO MY SIBLINGS, PARENTS, AND MY PEERS
+&lt;hr />
+&lt;h3>MY 2023 GOALS&lt;/h3>
+HAVE MORE FUN & BE MORE PRESENT
+&lt;li>BE A BETTER DAUGHTER, HELP OUT THE SIS IN LONG BEACH FOR A BIT&lt;/li>
+&lt;li>STOP PROCRASTINATING & BE ON-TIME&lt;/li>
+&lt;li>DON'T BE PRENTENTIOUS, BE MORE FRUGAL&lt;/li>
+&lt;li>BE HONEST&lt;/li>
+&lt;li>QUIT MADE AND TRAVEL OVERSEAS TO TEACH ENGLISH&lt;/li>
+&lt;h4>TECHNICAL SKILLSETS&lt;/h4>
+&lt;li>LEARN HOW TO CODE&lt;/li>
+&lt;li>LEARN TO READ AND WRITE IN THE FOLLOWING LANGUAGES MANDARIN, SPANISH, KOREAN, & KHMER (5 YEAR STRETCH GOAL D:2028)&lt;/li>
+&lt;li>LEARN DATA ANALYSTS DATABASES AND TOOLS&lt;/li>
+&lt;hr />
+&lt;h2> SHE CODES CHEAT SHEET & QUICK ACCESS LINKS &lt;/h2>
+&lt;a HREF="https://cheatsheets.shecodes.io/html">SHE CODES CHEAT SHEET - ALL CODES&lt;/a>&lt;br>
+&lt;a HREF="https://palettes.shecodes.io/palettes">SHE CODES CHEAT SHEET - COLOR PALETTES&lt;/a>&lt;br>
+&lt;a HREF="https://www.shecodes.io/learn/workshops/1062/resources">SHE CODES - WORKSHOP MAIN PAGE&lt;/a>
+&lt;hr />
+&lt;h2> BIO: A BIT ABOUT ME&lt;/h2>
+I LIVE IN MOUNTAIN VIEW
+&lt;br>I AM RELOCATING TO LA
+&lt;br>I PLAN TO REOLCATE TO DALLAS TEXAS
+&lt;hr />
+&lt;button> &lt;a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics">HTML TABLE BASICS URL LINK&lt;/a>&lt;/button>&lt;br>
+
+&lt;table class="center">
+  &lt;caption>Table Sample Test&lt;/caption>
+  &lt;tr>
+    &lt;th scope="col">NOVEMBER&lt;/th>
+    &lt;th scope="col">DECEMBER&lt;/th>
+    &lt;th scope="col">JANUARY&lt;/th>
+  &lt;/tr>
+  &lt;tr>
+    &lt;th scope="row">first&lt;/th>
+    &lt;td>Two&lt;/td>
+    &lt;td>three&lt;/td>
+  &lt;/tr>
+  &lt;tr>
+    &lt;th scope="row">four&lt;/th>
+    &lt;td>five&lt;/td>
+    &lt;td>six&lt;/td>
+  &lt;/tr>
+  &lt;tr>
+    &lt;th scope="row">seven&lt;/th>
+    &lt;td>eight&lt;/td>
+    &lt;td>nine&lt;/td>
+  &lt;/tr>
+&lt;/table>
+
+&lt;hr />
+&lt;button class="signup-button">
+  SIGN UP
+&lt;/button>
+&lt;button TYPE="EMAIL">
+  LEAVE ME YOUR CONTACT INFO
+&lt;/button>
+
+&lt;/html>
+&lt;hr />
+&lt;footer>
+  &lt;p>© 2022 LINNA LEARNS TO CODE VIA SHECODES&lt;/p>
+&lt;/footer></pre>
+  <pre data-lang="css">body {
+  font-family: system-ui;
+  background: #ffe9e3;
+  color: BLACK;
+  text-align: center;
+  border: 02px solid #647065;
+  border-radius: 20px;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td,
+th {
+  border: 7px solid rgb(190, 190, 190);
+  padding: 15px;
+}
+
+td {
+  text-align: center;
+}
+
+tr:nth-child(even) {
+  background-color: #eebb;
+}
+
+th[scope="col"] {
+  background-color: #696969;
+  color: #fff;
+}
+
+th[scope="row"] {
+  background-color: #d7d9f2;
+}
+
+caption {
+  padding: 10px;
+  caption-side: Top;
+}
+
+table {
+  border-collapse: collapse;
+  border: 3px solid rgb(200, 200, 200);
+  letter-spacing: 9px;
+  font-family: sans-serif;
+  font-size: 0.9rem;
+}
+</pre>
+  <pre data-lang="js">document.getElementsByTagName("h1")[0].style.fontSize = "4vw";
+</pre></div>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
